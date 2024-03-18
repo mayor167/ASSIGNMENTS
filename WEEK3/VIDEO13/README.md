@@ -1,5 +1,5 @@
 TITLE OF VIDEO: How to Create Menu in HTML
-This folder/directory contains README.md, index.html and style.css
+This folder/directory contains README.md, index.html, Portfolio.html, Contact.html, Aboutme.html and style.css
 ...............LESSON LEARNT................
 
 when creating a menu, it is like creating unorderd lists
@@ -15,5 +15,5 @@ inside the tag above, we use the li tag to create the lists as below
 note that anchor tag makes the menu clickable
 
 ..............Question.........
-Why do we need to use display:block in ul li a selector again sir?
+Why do we need to use display:block in (ul li a )selector again sir?
 
