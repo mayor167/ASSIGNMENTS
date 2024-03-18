@@ -7,3 +7,4 @@ The are two ways to insert image into a webpage
     2. using CSS and HTML
     we use;
         background-image: url("image directory here");
+        note that you have to set the height of the image to be seen on the web page
