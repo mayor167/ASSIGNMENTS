@@ -8,3 +8,6 @@ There are two ways to create video on a web page;
                 </video>
 
       2. linking video online using embed video
+      benefits of using method 2
+      i. web page loads faster 
+      ii. Less space is occupied in the server when file is uploaded online.
