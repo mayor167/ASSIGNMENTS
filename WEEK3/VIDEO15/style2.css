@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 1000px;
+    margin:0 auto;
+}
+.img-techsol{
+    height: 500px;
+    background-image: url(img/techsol.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+}
+.img-techsol:hover{
+    background-size: 50%;
+}
