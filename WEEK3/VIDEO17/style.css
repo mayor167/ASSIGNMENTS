@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 100%;
+}
+.logo2{
+    display: none;
+} 
+.myinfo{
+    width: 100%;
+}
+.myinfo h1{
+    padding: 30px 30px 20px ;
+    font-family: Arial;
+    font-size:30px;
+    color:#111;
+    line-height: 44px
+}
+.myinfo p{
+    padding: 0px 30px 20px ;
+    font-family: Arial;
+    font-size:16px;
+    color:#111;
+    line-height: 24px
+}
+.mypic{
+    width:100%
+}
+@media screen and (min-width:768px){
+    .logo2{
+        width:100%;
+        padding-bottom: 5px;
+        display: block;
+    }
+    .wrapper{
+        width: 600px;
+        margin: 0 auto;
+    }  
+    .myinfo h1{
+        padding: 20px 0px 0px ;
+    }
+    .myinfo p{
+        padding: 20px 0px 0px ;
+    } 
+    .mypic{
+        padding-top: 30px;
+    }
+}
+@media screen and (min-width:1000px) {
+    .wrapper{
+        width:1000px;
+    }
+    .myinfo{
+        width:50%;
+        float:right
+    }
+    .myinfo h1{
+        padding: 20px 0px 0px 30px ;
+    }
+    .myinfo p{
+        padding: 20px 0px 0px 30px;
+    }
+    .mypic{
+        width: 50%;
+        float:left;
+    }
+
+}
