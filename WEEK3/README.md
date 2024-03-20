@@ -1,1 +1,6 @@
-This folder/directory contains video 13 - 20 in form of css and html files
+
+This folder/directory is for week 3 Assignment
+
+It contains video 13 - 20
+
+It also contain css and html files
