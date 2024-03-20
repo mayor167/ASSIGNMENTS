@@ -1,4 +1,4 @@
-This the main directory for all the Videos' Assigment
+This the root directory for all the Videos' Assigment
 
 The video tutorials here are anchored by DANI KROSSING
 
