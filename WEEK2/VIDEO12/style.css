@@ -1,0 +1,11 @@
+.div-link{
+    width: 30px;
+    padding: 2px 20px;
+    background-color: green ;
+    border: 1px solid green;
+    border-radius: 10px;
+}
+.div-link a{
+    text-align: center;
+    text-decoration: none;  
+}
